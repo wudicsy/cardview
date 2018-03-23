@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/chengsiyuan/.android/build-cache/ac1cecc5fb64c1ab906bd89e567667885b7b6c2a/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/gitdemo/wudi/WuDi/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_768367b535da8ccea70bad940c4a2173914e1f02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chengsiyuan/.android/build-cache/5ba21601c0b2920b3318970158cab39e1f023e26/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9602d1e79216cd0e61d22fad40caee64365f29ac">
+        <dex dex="/gitdemo/wudi/WuDi/app/build/intermediates/pre-dexed/debug/classes_37c8821b51322a95be08479406312810b490f77c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chengsiyuan/.android/build-cache/3bdfe29bba59b9f172e7511e1a782eef333e97a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/gitdemo/wudi/WuDi/app/build/intermediates/pre-dexed/debug/classes_6ca55c688ef51c58f7f7bcd144504c4867317317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chengsiyuan/.android/build-cache/2e4ba995744015aba3473cbed9e473a9aa05cfdd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/gitdemo/wudi/WuDi/app/build/intermediates/pre-dexed/debug/classes_0ac9804f163fdad513abf838a11fdb10cd47bd07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chengsiyuan/.android/build-cache/8dc435c79ed7f31132398036aba44d7f4cff7e5c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9644834bb403cfd73f5695b908a933c1ff236217">
+        <dex dex="/gitdemo/wudi/WuDi/app/build/intermediates/pre-dexed/debug/classes_c95727919be7e0f0fc16cefe5c426da3e26c466f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chengsiyuan/.android/build-cache/94e0825b55cc30578bb0b5e67735fea5b4274007/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/gitdemo/wudi/WuDi/app/build/intermediates/pre-dexed/debug/classes_0696694f6af940438a6b44cb273c9ed86d1966a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chengsiyuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/gitdemo/wudi/WuDi/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_95d5304e163ddf1380626eb7b35b7af94ef3496b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/gitdemo/wudi/WuDi/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3f323df18d9ac9d3ab76c3bb1b1a5c7d4cdbc275.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chengsiyuan/.android/build-cache/ac1cecc5fb64c1ab906bd89e567667885b7b6c2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/gitdemo/wudi/WuDi/app/build/intermediates/pre-dexed/debug/classes_bf0851f4c418abb2d51878fd706634a3b6f7c5c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chengsiyuan/.android/build-cache/43d367677511296c50dc9df2e3e4bcb4f0a5e969/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c6d36281ce1c28ebeb58155c3ceac425dcec5e2">
+        <dex dex="/gitdemo/wudi/WuDi/app/build/intermediates/pre-dexed/debug/classes_9342756d97b7101fb52964cf71106598f628cdea.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/gitdemo/wudi/WuDi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/gitdemo/wudi/WuDi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a77a59eea2cc78c58fcb3121c6bd476b21e157c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chengsiyuan/.android/build-cache/3c9240d2a50091c3f00dca3eba4ee6ac32d0c9b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bf2709be142a2d0784d5e548842026dc28079dc">
+        <dex dex="/gitdemo/wudi/WuDi/app/build/intermediates/pre-dexed/debug/classes_61613437f65452394bdad794555d82e0577cdd64.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/gitdemo/wudi/WuDi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0ca058933dc0b0ab296a7a535b620dfe5c52016">
+        <dex dex="/gitdemo/wudi/WuDi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7997955a2dc18e7ffe99cf1f60ca0dfe7856df5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chengsiyuan/.android/build-cache/0aa476361c1028e133e7e48e0382127a11e5eba0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da8b8f3f1fed75b39f0b9228bea5512f10bfff6f">
+        <dex dex="/gitdemo/wudi/WuDi/app/build/intermediates/pre-dexed/debug/classes_372f0e07709b1aabac683379223716672562ff1d.jar" />
+    </item>
+
+</items>
